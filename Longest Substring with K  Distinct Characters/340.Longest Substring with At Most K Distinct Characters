@@ -1,4 +1,6 @@
-        // LC 3 , 159, 340
+class Solution {
+    public int lengthOfLongestSubstringKDistinct(String s, int k) {
+       // LC 3 , 159, 340
         if(s == null)
             return 0;
         if(s.length() <= k)
