@@ -6,7 +6,9 @@ At the same time, practise using Github.
    今天周一，凌晨两点突然收到阿里的全职面试，paycom的OA还没有做，638的CYK算法还不是很懂。
    好烦，下学期再选这些傻逼课我就是智障。  
    Weekly Plan：  
+      
       1.Paycom OA: C#, MySQL and OOP preparation. 
+      
         周四Due 
         
       2.阿里面试：  
